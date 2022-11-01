@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Rangel</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **GIR HUB**
+- 🔭 I’m currently working on **GIT HUB**
 
 - 🌱 I’m currently learning **PROGRAMACION**
 
