@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Rangel</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **Github**
+- 🔭 I’m currently working on **GIR HUB**
 
-- 🌱 I’m currently learning **Todo**
+- 🌱 I’m currently learning **PROGRAMACION**
 
-- 👯 I’m looking to collaborate on **Israel**
+- 👯 I’m looking to collaborate on **MICROSOFT**
 
 - 🤝 I’m looking for help with **Html**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pollo.19xoco@gmail.com**
 
-- ⚡ Fun fact **Soy una V**
+- ⚡ Fun fact **NO ME GUSTAN LAS COMPUTADORAS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
