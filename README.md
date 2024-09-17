@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **Html**
 
-- 💬 Ask me about **Matar**
+- 💬 Ask me about **COMPUTADORA**
 
 - 📫 How to reach me **pollo.19xoco@gmail.com**
 
-- ⚡ Fun fact **NO ME GUSTAN LAS COMPUTADORAS**
+- ⚡ Fun fact **TENGO ODIOAMOR POR LA PROGRAMACION**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
